@@ -1,0 +1,54 @@
+.jumbotron {
+
+text-align: center;
+background:none ;
+}
+
+
+.sectionLight{
+ background-color: #eceeef;
+padding: 2em;
+}
+.sectionDark{
+background-color: #cccccc;
+padding: 2em;
+
+}
+.coolStuffWrapper{
+
+margin-top: 20px;
+
+}
+button.coolStuffBtn{
+background-color: red;
+color: white;
+display: block;
+margin: auto;
+}
+h5.modal-title{
+margin: auto;
+}
+
+.imgCenter{
+ 
+    display: block;
+margin: auto;
+}
+
+.btnCenter{
+    display:block;
+    margin: auto;
+    margin-top: 15px;
+margin-bottom: 20px;
+width: 78%;
+}
+
+.modalFormWrapper{
+padding: 2rem;
+
+}
+
+
+
+
+
